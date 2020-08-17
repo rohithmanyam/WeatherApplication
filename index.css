@@ -1,0 +1,19 @@
+.quoteBody{
+	 font-size: 48px;
+	font-family: 'Tangerine', serif;
+	text-shadow: 4px 4px 4px #aaa;
+       
+}
+
+.quoteAuthor {
+	font-size: 28px !important;
+
+}
+
+.btn{
+	border-radius: 0px !important;
+}
+
+.btn:focus {
+	outline: none;
+}
